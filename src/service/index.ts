@@ -24,20 +24,6 @@ export const QUERY = gql`
   }
 `;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 export async function getData() {
   const posts = await hygraph.request(QUERY);
   const data: ContentPropsData = posts.blogsConnection.edges;
