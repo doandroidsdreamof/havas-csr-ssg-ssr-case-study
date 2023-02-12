@@ -11,16 +11,15 @@
 
 # :notebook_with_decorative_cover: Table of Contents
 
-  - [Screenshots](#camera-screenshots)
-  - [Tech Stack](#space_invader-tech-stack)
-  - [Environment Variables](#key-environment-variables)
+- [Screenshots](#camera-screenshots)
+- [Tech Stack](#space_invader-tech-stack)
+- [Environment Variables](#key-environment-variables)
 - [Getting Started](#toolbox-getting-started)
   - [Prerequisites](#bangbang-prerequisites)
   - [Installation](#gear-installation)
   - [Run Locally](#running-run-locally)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [Contact](#handshake-contact)
-
 
 <!-- Screenshots -->
 
@@ -50,7 +49,6 @@
 
   </ul>
 </details>
-
 
 <!-- Env Variables -->
 
