@@ -1,6 +1,5 @@
 <div align="center">
 
-  <img src="./src/assets/svg/box.svg" alt="logo" width="200" height="auto" />
   <h1>Havas-CSR-SSG-SSR-Case-Ctudy</h1>
 
 <h4>
@@ -86,7 +85,7 @@ Install my-project with npm
 Clone the project
 
 ```bash
-  git clone https://github.com/doandroidsdreamof/havas-typescript-case-study.git
+  git clone https://github.com/doandroidsdreamof/havas-csr-ssg-ssr-case-study.git
 ```
 
 Go to the project directory
