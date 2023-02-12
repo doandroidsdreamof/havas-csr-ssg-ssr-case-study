@@ -17,7 +17,6 @@
   - [Prerequisites](#bangbang-prerequisites)
   - [Installation](#gear-installation)
   - [Run Locally](#running-run-locally)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [Contact](#handshake-contact)
 
 <!-- Screenshots -->
@@ -103,18 +102,9 @@ Install dependencies
 Start the server
 
 ```bash
-  npm dev
+  npm run dev
 ```
 
-<!-- Deployment -->
-
-### :triangular_flag_on_post: Deployment
-
-To deploy this project run
-
-```bash
-  npm deploy
-```
 
 <!-- Contact -->
 
