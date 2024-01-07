@@ -106,11 +106,6 @@ Start the server
 ```
 
 
-<!-- Contact -->
-
-## :handshake: Contact
-
-mutlukuytuoglu@gmail.com
 
 <!-- Acknowledgments -->
 
